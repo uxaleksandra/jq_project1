@@ -1,5 +1,5 @@
 var span = $("span");
-      span.each(function(index, element) {
+span.each(function(index, element) {
 });
 $("span:odd").css('color','red');
 
